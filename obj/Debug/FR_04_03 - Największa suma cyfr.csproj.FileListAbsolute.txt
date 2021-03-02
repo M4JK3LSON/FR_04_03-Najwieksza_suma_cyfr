@@ -1,0 +1,6 @@
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_04_03 - Największa suma cyfr\bin\Debug\FR_04_03 - Największa suma cyfr.exe.config
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_04_03 - Największa suma cyfr\bin\Debug\FR_04_03 - Największa suma cyfr.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_04_03 - Największa suma cyfr\bin\Debug\FR_04_03 - Największa suma cyfr.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_04_03 - Największa suma cyfr\obj\Debug\FR_04_03 - Największa suma cyfr.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_04_03 - Największa suma cyfr\obj\Debug\FR_04_03 - Największa suma cyfr.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - BARTEK\FR_04_03 - Największa suma cyfr\obj\Debug\FR_04_03 - Największa suma cyfr.pdb
